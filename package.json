@@ -1,0 +1,12 @@
+{
+    "name": "music-maker",
+    "author": "James McVeigh <james7556@gmail.com>",
+    "version": "0.0.1",
+    "main": "main.js",
+    "repository": "github:jamesmcveigh/music-maker",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "tone": "^14.7.77"
+    }
+}
